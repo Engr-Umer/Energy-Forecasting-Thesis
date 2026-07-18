@@ -25,7 +25,7 @@ and anomaly detection in smart home systems.
 ### Skills
 **Machine Learning:** Python · PyTorch · Keras · Bi-LSTM · CNN · Time Series  
 **Power Systems:** MATLAB/Simulink · Power System Protection · Solar PV · HT/LT Systems  
-**Tools:** VS Code · Git · LaTeX · Overleaf · MATALab
+**Tools:** VS Code · Git · LaTeX · Overleaf · MATLab
 
 ---
 
